@@ -81,3 +81,4 @@
     </div>
 </body>
 </html>
+<link href="{{ asset('css/view.css') }}" rel="stylesheet">
